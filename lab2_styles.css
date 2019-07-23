@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    text-align: center;
 }
 
 h1 {
@@ -16,7 +17,6 @@ p {
     background-color: lightgreen;
     opacity: .5;
     width: 60%;
-
 }
 
 a {
@@ -26,29 +26,48 @@ a {
 }
 
 span {
-	background-color: yellow;
-    opacity: 1;	
+background-color: yellow;
+    opacity: 1;
+    margin-left: 40px;
+    margin-top: -50px;
 }
 
 form {
-	height: 200px;
-	width: 400px;
-	background-color: orange;
-    opacity: .9;	
+height: 200px;
+width: 750px;
+background-color: orange;
+    opacity: .9;
+    margin-left: 575px;
+    margin-top:-50px;
 }
 
 input {
-	background-color: purple;
+background-color: purple;
     opacity: 1;
 }
 
 div {
-	height: 100px;
-	width: 400px;
-	background-color: blue;
+height: 100px;
+width: 500px;
+background-color: blue;
     opacity: .7;
-    	
+    margin-left: 125px;
+    margin-top: 50px;
 }
-.center-me {
-  margin: 0 auto;
-  }
+
+img {
+margin-top: -25px;
+}
+
+.wiki_stuff {
+text-align: center;
+width: 1000px;
+margin-left: 450px;
+margin-top: -0px;
+}
+
+.first_p {
+margin-left: 375px;
+text-align: center;
+}
+
