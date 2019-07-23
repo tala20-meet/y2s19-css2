@@ -16,6 +16,7 @@ p {
     background-color: lightgreen;
     opacity: .5;
     width: 60%;
+
 }
 
 a {
@@ -48,3 +49,6 @@ div {
     opacity: .7;
     	
 }
+.center-me {
+  margin: 0 auto;
+  }
